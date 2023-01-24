@@ -1,0 +1,24 @@
+medcodeid,snomedctconceptid,snomedctdescriptionid,originalreadcode,cleansedreadcode,term,referred,considered,commenced,completed,pr
+"8454151000006114","1078921000000100","2704741000000111","^ESCTUN845415","","Unsuitable for pulmonary rehabilitation",,1,,,1
+"8458451000006110","1082401000000105","2712491000000116","^ESCTEM845845","","Emergency hospital admission to programmed pulmonary rehabilitation service",,,1,,1
+"12626791000006118","1111361000000101","2780761000000116","^ESCT1262679","","QOF (Quality and Outcomes Framework) pulmonary rehabilitation service not available",,1,,,1
+"25607012","15081005","25607012","8FA","8FA..00","Pulmonary rehabilitation",1,1,,,1
+"1656601000006119","1656601000006103","1656601000006119","EMISNQCO39","","COPD patient unsuitable for pulmonary rehabilitation",,1,,,1
+"5000301000006110","229823004","344519012","^ESCTPU500030","","Pulmonary rehabilitation class",,,1,,1
+"61911000000113","24461000000105","61911000000113","8H7u","8H7u.00","Referral to pulmonary rehabilitation",1,1,,,1
+"7973361000006117","2461000175101","3030731011","^ESCTPU797336","","Pulmonary rehabilitation service",,,1,,1
+"542941000000111","305371000000101","542941000000111","8IA9","8IA9.00","Pulmonary rehabilitation declined",,1,,,1
+"1704541000006113","371611000000107","1152601000000114","9kf0-1","9kf0.11","COPD patient unsuitable for pulmonary rehabilitation",,1,,,1
+"1704531000006115","371611000000107","1152601000000114","9kf0","9kf0.00","Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation",,1,,,1
+"8120981000006112","371611000000107","730041000000110","^ESCTCO812098","","COPD (Chronic obstructive pulmonary disease) patient unsuitable for pulmonary rehabilitation",,1,,,1
+"1485151019","391127007","1485151019","8FA0","8FA0.00","Assessment for pulmonary rehabilitation completed",,,1,,1
+"1476256018","391128002","1476256018","8FA1","8FA1.00","Pulmonary rehabilitation programme commenced",,,1,,1
+"6519391000006112","391128002","1477217018","^ESCTPU651939","","Pulmonary rehabilitation program commenced",,,1,,1
+"1476257010","391130000","1476257010","8FA2","8FA2.00","Pulmonary rehabilitation programme completed",,,1,1,1
+"6519421000006116","391130000","1477218011","^ESCTPU651942","","Pulmonary rehabilitation program completed",,,1,1,1
+"8275341000006112","828861000000102","2154671000000112","^ESCTPR827534","","Programmed pulmonary rehabilitation service",,,1,,1
+"2226551000000114","860931000000107","2226551000000114","8I86","8I86.00","Did not complete pulmonary rehabilitation programme",,,1,,1
+"8306431000006119","878051000000107","2265931000000111","^ESCTPU830643","","Pulmonary rehabilitation review",,,1,,1
+"2348521000000113","913981000000106","2348521000000113","9NSL","9NSL.00","Pulmonary rehabilitation offered",,1,,,1
+"2405811000000110","939851000000104","2405811000000110","8I97","8I97.00","Pulmonary rehabilitation programme not available",,1,,,1
+"2448471000000116","960551000000102","2448471000000116","^ESCT1171182","","Pulmonary rehabilitation programme plan",,,1,,1

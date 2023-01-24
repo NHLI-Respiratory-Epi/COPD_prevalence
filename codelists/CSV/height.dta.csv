@@ -1,0 +1,6 @@
+medcodeid,snomedctconceptid,snomedctdescriptionid,originalreadcode,cleansedreadcode,term,height
+"1910931000006112","1910931000006108","1910931000006112","EMISNQRE470","","Reported height",1
+"253669010","248333004","370729019","229","229..00","Standing height",1
+"253676017","248333004","370729019","229Z","229Z.00","O/E - height NOS",1
+"5256151000006111","248333004","5256151000006111","^ESCTST525615","","Standing height",1
+"923831000006115","923831000006104","923831000006115","PCNQOE1","","O/E - height",1
