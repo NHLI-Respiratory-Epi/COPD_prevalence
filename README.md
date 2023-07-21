@@ -1,4 +1,9 @@
+
+[![DOI:10.2147/COPD.S411739](https://img.shields.io/badge/DOI-10.2147%2FCOPD.S411739-blue)](https://doi.org/10.2147/COPD.S411739)
 # Prevalence of chronic obstructive pulmonary disease in England from 2000 to 2019
+
+## Publication
+https://doi.org/10.2147/COPD.S411739
 
 ## COPD definitions
 
